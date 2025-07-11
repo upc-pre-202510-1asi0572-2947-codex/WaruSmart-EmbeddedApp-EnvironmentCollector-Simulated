@@ -1,0 +1,1 @@
+# WaruSmart-EmbeddedApp-EnvironmentCollector-Simulated
